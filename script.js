@@ -1,5 +1,5 @@
 // Typewriter Effect
-const textArray = ["Cybersecurity Analyst", "Penetration Tester", "Digital Forensics & Incident Response", "Vulnerability Assessment", "Web & App Security", "AI Security"];
+const textArray = ["Cybersecurity Researcher", "Penetration Tester", "Digital Forensics & Incident Response", "Vulnerability Assessment", "Web & App Security", "AI Security"];
 const typeWriterElement = document.getElementById("typewriter");
 let textIndex = 0;
 let charIndex = 0;
